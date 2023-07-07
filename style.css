@@ -110,7 +110,9 @@ label{
 }
 
 @media screen and (max-width: 480px) {
-  
+  #desc{
+    font-size: 1rem;
+  }
 }
 
 @media screen and (max-width: 320px) {
